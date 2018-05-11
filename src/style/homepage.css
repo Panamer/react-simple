@@ -1,0 +1,29 @@
+.homepage{
+	width: 800px;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+.homepage .centerp .centerp-left{
+	display: inline-block;
+	border-radius: 4px;
+	padding: 3px 6px;
+	background-color: #D0D0D0;
+	/*font-size: 16px;*/
+}
+.homepage .centerp .centerp-right{
+	float: right;
+	margin-top: 5px;
+	font-size: 14px;
+}
+.homepage .centerp .centerp-right span{
+	
+}
+.homepage .centerp .centerp-right .centerp-set{
+	display: inline-block;
+	border-radius: 4px;
+	padding: 3px 6px;
+	margin-left: 10px;
+	text-decoration: none;
+	color: #303030;
+	background-color: white;
+}

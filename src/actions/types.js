@@ -1,0 +1,9 @@
+export const ADD_ITEM = "ADD_ITEM";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const FINISH_ITEM = "FINISH_ITEM";
+export const INPUT_STATU = "INPUT_STATU";
+export const CHECK_ALL = "CHECK_ALL";
+export const EDIT_END = "EDIT_END";
+export const FILTER_LIST = "FILTER_LIST";
+export const LIST_SHOW = "LIST_SHOW";
+export const CLEAR_COMPLETED = "CLEAR_COMPLETED";
